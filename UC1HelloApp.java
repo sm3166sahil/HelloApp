@@ -1,4 +1,4 @@
-public class HelloApp 
+public class UC1HelloApp 
 {
 public static void main(String[] args)
  {
